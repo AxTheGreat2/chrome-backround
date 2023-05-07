@@ -2,7 +2,7 @@
     "name": "Geometric chrome backrounds",
     "description": "A chrome extension you can try it but you will not want it so uh yeah you don't have to be here so just leave only 1 backround so you don't need this",
     "version": "1.0.0",
-    "manifest_version": 1,
+    "manifest_version": 3,
     "background": {
         "service_worker": "background.js"
     }
