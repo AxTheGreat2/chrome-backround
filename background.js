@@ -1,3 +1,1 @@
-document.addEventListener("DOMContentLoaded", () => {
-   document.body.style.backgroundColor = "red";
-});
+document.body.style.backgroundImage = "url('https://lh4.googleusercontent.com/proxy/c7tPX0fpwmqIljPMIAbvVipXrd2ksOOzvEvVcrV0OSWpo3-D3pjIYGBFUEYi_NCJ65_SWY_64q1Ttu1UO_vZwo5vmzQb9JzxyKaJ6a6ubA=w3840-h2160-p-k-no-nd-mv')";
